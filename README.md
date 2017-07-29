@@ -1,6 +1,10 @@
+
 Algoritmo-Genetico-Canonico
 Practica de Maestria Ing. en Informática y Sistemas, Adminisitración en TI
-funcion a maximizar: 
+
+
+
+Funcion a maximizar: 
 
    0.5-(dividendo/divisor) 
 
